@@ -4,8 +4,8 @@ I'm a CST student and a beginner programmer.
 
 ## Currently Learning
 
-- C Programming
-- Problem Solving
+- C Programming 
+- C++
 - Git & GitHub
 - Data Structures & Algorithms
 
@@ -23,5 +23,3 @@ become a better programmer through consistent practice.
 ## Currently Working On
 
 - C programming basics
-- Small programming projects
-- Problem solving
