@@ -5,9 +5,8 @@ I'm a CST student and a beginner programmer.
 ## Currently Learning
 
 - C Programming 
-- C++
 - Git & GitHub
-- Data Structures & Algorithms
+
 
 ## Skills
 
