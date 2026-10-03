@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shuvo
 
-<!--
-**arnab999-codeman/arnab999-codeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CST student and a beginner programmer.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C Programming
+- Problem Solving
+- Git & GitHub
+- Data Structures & Algorithms
+
+## Skills
+
+- C
+- Git
+- GitHub
+
+## My Goal
+
+To build a strong foundation in Computer Science and
+become a better programmer through consistent practice.
+
+## Currently Working On
+
+- C programming basics
+- Small programming projects
+- Problem solving
